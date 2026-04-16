@@ -23,11 +23,10 @@ When the SOS button is pressed, the ESP32 reads GPS coordinates from the Neo-6M 
 
 ## 📸 Project Images
 ![Setup](images/sos-1.jpeg)  
-![Setup](images/sos-2.jpeg)  
 ![Setup](images/sos-3.jpeg)  
 
 ## 📱 Telegram Output
-![Alert](images/sos-alert.png)
+![Setup](images/sos-2.jpeg) 
 
 ## 🔧 Circuit Diagram
 ![Circuit](circuit/circuit.png)
